@@ -8,7 +8,7 @@ We need to return the string removing the minimum number of parenthesis.
 If interested in my comments and test scaffolding I invite you to visit the 
 following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/01/19/minimum-remove-to-make-valid-parenthesis-in-java/
 
 Keey on reading and experimenting.
 It is the best way to learn.
